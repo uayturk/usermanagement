@@ -1,5 +1,30 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## What I Used In This Project
+- Axios
+- Context API
+- JSON Server (Get a full fake REST API)
+- React-pose
+- React Router/Route/Switch
+- Chartjs-2
+- ReactTooltip
+- PropTypes
+- Spread Syntax
+- Fontawesome
+- Bootstrap 4
+
+## What You'll See Useful
+
+The structures described below can be used in your projects where ever needed.
+- Navbar
+- Sidebar
+- Charts
+- Update,Add and Delete operations
+- Search
+- Bootstrap Usage
+- Fontawesome Usage
+- Animations
+
 ## Available Scripts
 
 In the project directory, you can run:
