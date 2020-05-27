@@ -72,8 +72,7 @@ class Chart extends Component {
          If your render() method depends on some other data, you can tell React that the component needs re-rendering by calling forceUpdate(). 
          If we not use forceUpdate here,undefined comes first time when you add new department. You need manuel refresh. To solve this forceUpdate used.*/
          this.forceUpdate();
-         
-       
+             
         for (var i = 0; i < departmentArray.length; i++) {
 
             for (var j = 0; j < fullDepartmentArray.length; j++) {
