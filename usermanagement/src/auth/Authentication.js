@@ -239,6 +239,7 @@ class Authentication extends Component {
                                                          <input 
                                                          type = "text"
                                                          name = "email"
+                                                         autocomplete="off"
                                                          id = "id"
                                                          placeholder = "Enter Your Email"
                                                          className = "form-control"
@@ -252,6 +253,7 @@ class Authentication extends Component {
                                                          <input 
                                                          type = "text"
                                                          name = "password"
+                                                         autocomplete="off"
                                                          id = "id"
                                                          placeholder = "Enter Your Password"
                                                          className = "form-control"

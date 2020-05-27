@@ -61,88 +61,8 @@
       "id": "u0IO8YG"
     },
     {
-      "name": "Emilia Clarke",
-      "department": "TV",
-      "salary": "7899",
-      "performanceArray": [
-        "54",
-        "66",
-        "78",
-        "65",
-        "95",
-        "54",
-        "23",
-        "55",
-        "99",
-        "33",
-        "88",
-        "11"
-      ],
-      "id": "eBzgrxA"
-    },
-    {
-      "name": "Emma Watson",
-      "department": "TV",
-      "salary": "7899",
-      "performanceArray": [
-        "78",
-        "66",
-        "78",
-        "88",
-        "13",
-        "54",
-        "23",
-        "55",
-        "13",
-        "77",
-        "20",
-        "89"
-      ],
-      "id": "zTA1UA5"
-    },
-    {
-      "name": "Clara Fox",
-      "department": "Economy",
-      "salary": "7899",
-      "performanceArray": [
-        "78",
-        "55",
-        "90",
-        "90",
-        "44",
-        "54",
-        "55",
-        "55",
-        "44",
-        "55",
-        "20",
-        "98"
-      ],
-      "id": "Twow1Nd"
-    },
-    {
-      "name": "Clara Fox",
-      "department": "Travel",
-      "salary": "7899",
-      "performanceArray": [
-        "2",
-        "23",
-        "21",
-        "22",
-        "33",
-        "44",
-        "55",
-        "66",
-        "77",
-        "88",
-        "99",
-        "87"
-      ],
-      "id": "lFz1jnB"
-    },
-    {
       "name": "Riley Boss",
-      "department": "Engineering",
+      "department": "TV",
       "salary": "7899",
       "performanceArray": [
         "45",
@@ -159,26 +79,6 @@
         "78"
       ],
       "id": "dT2KaWw"
-    },
-    {
-      "name": "Tom Felton",
-      "department": "TV",
-      "salary": "7899",
-      "performanceArray": [
-        "23",
-        "34",
-        "45",
-        "56",
-        "67",
-        "66",
-        "77",
-        "67",
-        "76",
-        "88",
-        "96",
-        "66"
-      ],
-      "id": "iE0zNlA"
     },
     {
       "name": "John Connor",
@@ -262,7 +162,7 @@
     },
     {
       "name": "Rex Henderson",
-      "department": "TV",
+      "department": "Travel",
       "salary": "7899",
       "performanceArray": [
         "34",
@@ -279,6 +179,26 @@
         "67"
       ],
       "id": "QUB4bfs"
+    },
+    {
+      "name": "Emilia Clarke",
+      "department": "TV",
+      "salary": "6700",
+      "performanceArray": [
+        "34",
+        "45",
+        "56",
+        "66",
+        "66",
+        "78",
+        "76",
+        "54",
+        "32",
+        "12",
+        "23",
+        "45"
+      ],
+      "id": "8RjACxE"
     }
   ]
 }

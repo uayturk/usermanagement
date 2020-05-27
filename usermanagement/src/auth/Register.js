@@ -108,7 +108,7 @@ class Register extends Component {
                                                         <label htmlFor = "name">Email</label>
                                                         <input 
                                                         type = "text"
-                                                        name = "email"
+                                                        name = "email"                                                      
                                                         id = "id"
                                                         placeholder = "Enter Your Email"
                                                         className = "form-control"

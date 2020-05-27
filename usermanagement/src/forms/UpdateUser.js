@@ -204,6 +204,7 @@ class UpdateUser extends Component {
                                                         <input 
                                                         type = "text"
                                                         name = "name"
+                                                        autocomplete="off"
                                                         id = "id"
                                                         placeholder = "Enter Name"
                                                         className = "form-control"

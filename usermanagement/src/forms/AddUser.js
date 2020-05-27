@@ -227,7 +227,7 @@ class AddUser extends Component {
                                                         <label htmlFor = "name">Name</label>
                                                         <input 
                                                         type = "text"
-                                                        name = "name"
+                                                        name = "name"                                                      
                                                         id = "id"
                                                         placeholder = "Enter Name"
                                                         className = "form-control"
