@@ -97,9 +97,7 @@ class Chart extends Component {
                 ],
             }
           });  
-          
-         
-          
+                
     }
 
     convertToPercentageAndSetBackgroundColor = (array) => {
