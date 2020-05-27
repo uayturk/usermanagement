@@ -18,8 +18,6 @@ import { Redirect } from 'react-router-dom'
 
 class App extends Component {
   
-  
-
   state = {
     isAuth : JSON.parse(localStorage.getItem('isAuthValue')),
     error : false,
