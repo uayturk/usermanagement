@@ -2,7 +2,8 @@
 
 ![til](./usermanagement/src/usermanagement1.gif)
 
-Usermanagement system with React, Bootstrap 4
+
+Usermanagement module is a React Project which is designed for comprehensive control over the management of users/employees. Module provides to see users performances per month and user distribution as chart. Also users can add,delete and update from the module. Since the charts are updated instantly, the distribution chart that change during adding or deleting users are seen. In this module, Chartjs Fontawesome, ContextApi, ES6 and Bootstrap4 uses can be seen.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
